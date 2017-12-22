@@ -1,0 +1,9 @@
+{
+    "name": "jambot-server",
+    "version": "0.0.1",
+    "description": "J A M B O T",
+    "dependencies": {
+        "express": "4.15.2",
+        "socket.io": "^2.0.4"
+    }
+}
