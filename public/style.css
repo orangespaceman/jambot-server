@@ -26,6 +26,15 @@ body {
   color: #fff;
   padding: 10px;
   text-align: center;
+  position: relative;
+}
+
+.jambot-state {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  margin: 0;
+  color: #f90;
 }
 
 /* play */
